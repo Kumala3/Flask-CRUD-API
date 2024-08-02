@@ -1,2 +1,2 @@
 # Flask-CRUD-API
-Example of simple RESTful CRUD API with Flask
+Simple RESTful CRUD API with Flask and Swagger Docs
